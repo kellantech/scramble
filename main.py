@@ -46,7 +46,7 @@ def word_gen():
 
 def check(answer):
   if answer == words and x == 1:
-    #
+    
     zzz= "correct"
   elif answer == other_words and x == 2 :
     zzz="correct"
